@@ -12,6 +12,7 @@ int main() {
         return -1;
     }
     printf("hello");
+    
     fflush(stdout);
 
     fprintf(fp, "hello world");
